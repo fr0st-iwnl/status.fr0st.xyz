@@ -5,6 +5,10 @@ repo: status.fr0st.xyz # The name of this repository
 sites:
   - name: search.fr0st.xyz
     url: https://search.fr0st.xyz/
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 202
   - name: fr0st.xyz
     url: https://fr0st.xyz/
 

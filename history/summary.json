@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.fr0st.xyz.ico",
     "slug": "search-fr0st-xyz",
     "status": "up",
-    "uptime": "64.51%",
-    "uptimeDay": "64.51%",
-    "uptimeWeek": "64.51%",
-    "uptimeMonth": "64.51%",
-    "uptimeYear": "64.51%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 575,
     "timeDay": 575,
     "timeWeek": 575,
     "timeMonth": 575,
     "timeYear": 575,
-    "dailyMinutesDown": {
-      "2025-07-31": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "fr0st.xyz",

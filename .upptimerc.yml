@@ -9,6 +9,7 @@ sites:
       - 200
       - 201
       - 202
+      - 502
   - name: fr0st.xyz
     url: https://fr0st.xyz/
 

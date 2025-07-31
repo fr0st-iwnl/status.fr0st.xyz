@@ -4,19 +4,19 @@
     "url": "https://search.fr0st.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/search.fr0st.xyz.ico",
     "slug": "search-fr0st-xyz",
-    "status": "down",
-    "uptime": "99.78%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.78%",
-    "time": 536,
-    "timeDay": 536,
-    "timeWeek": 536,
-    "timeMonth": 536,
-    "timeYear": 536,
+    "status": "up",
+    "uptime": "64.51%",
+    "uptimeDay": "64.51%",
+    "uptimeWeek": "64.51%",
+    "uptimeMonth": "64.51%",
+    "uptimeYear": "64.51%",
+    "time": 575,
+    "timeDay": 575,
+    "timeWeek": 575,
+    "timeMonth": 575,
+    "timeYear": 575,
     "dailyMinutesDown": {
-      "2025-07-31": 0
+      "2025-07-31": 12
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 478,
-    "timeDay": 478,
-    "timeWeek": 478,
-    "timeMonth": 478,
-    "timeYear": 478,
+    "time": 448,
+    "timeDay": 448,
+    "timeWeek": 448,
+    "timeMonth": 448,
+    "timeYear": 448,
     "dailyMinutesDown": {}
   }
 ]

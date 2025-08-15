@@ -9,7 +9,18 @@ sites:
       - 200
       - 201
       - 202
-      - 502
+  - name: data.fr0st.xyz
+    url: https://data.fr0st.xyz/
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 202
+  - name: memos.fr0st.xyz
+    url: https://memos.fr0st.xyz/
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 202
   - name: fr0st.xyz
     url: https://fr0st.xyz/
 

@@ -13,7 +13,7 @@
     "time": 327,
     "timeDay": 91,
     "timeWeek": 396,
-    "timeMonth": 313,
+    "timeMonth": 320,
     "timeYear": 327,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 757,
     "timeDay": 448,
     "timeWeek": 553,
-    "timeMonth": 870,
+    "timeMonth": 889,
     "timeYear": 757,
     "dailyMinutesDown": {
       "2025-09-05": 31,
@@ -53,7 +53,7 @@
     "time": 538,
     "timeDay": 578,
     "timeWeek": 572,
-    "timeMonth": 538,
+    "timeMonth": 542,
     "timeYear": 538,
     "dailyMinutesDown": {
       "2025-08-31": 31
@@ -64,17 +64,19 @@
     "url": "https://memos.fr0st.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/memos.fr0st.xyz.ico",
     "slug": "memos-fr0st-xyz",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 512,
-    "timeDay": 402,
-    "timeWeek": 542,
-    "timeMonth": 512,
-    "timeYear": 512,
-    "dailyMinutesDown": {}
+    "time": 517,
+    "timeDay": 543,
+    "timeWeek": 560,
+    "timeMonth": 520,
+    "timeYear": 517,
+    "dailyMinutesDown": {
+      "2025-09-15": 0
+    }
   }
 ]

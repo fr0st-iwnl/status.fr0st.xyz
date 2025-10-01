@@ -23,6 +23,12 @@ sites:
       - 200
       - 201
       - 202
+  - name: komga.fr0st.xyz
+    url: https://komga.fr0st.xyz/
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 202
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

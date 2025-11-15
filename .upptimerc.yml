@@ -29,6 +29,12 @@ sites:
       - 200
       - 201
       - 202
+  - name: voux.fr0st.xyz
+    url: https://voux.fr0st.xyz/
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 202
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
